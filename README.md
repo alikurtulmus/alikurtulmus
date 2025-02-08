@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alikurtulmus
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning C#, .NET, React JS, and JavaScript.
+- 👀 I’m interested in Business Analyst.
+- 🌱 I’m currently learning Selenium for Test Automation.
 - 💞️ I’m looking to collaborate on the front-end & the back-end process of web application projects.
 - 📫 You can reach me via mkurtulmus.pro@gmail.com
 
